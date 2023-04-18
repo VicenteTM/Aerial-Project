@@ -1,0 +1,3 @@
+[submodule "crazy-practical2023"]
+	path = crazy-practical2023
+	url = https://github.com/dronecourse-epfl/crazy-practical2023.git
